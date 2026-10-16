@@ -11,7 +11,7 @@ The goal was to learn how Natural Language Processing (NLP) can be used to analy
 
 We used Python and Google Colab to explore the data, clean up the text, build classification models, and experiment with different NLP techniques.
 
-## What We Worked On
+## What I Worked On
 
 - **Data Exploration:** Looked at the different news categories, article lengths, and possible data quality issues.
 - **Text Preprocessing:** Cleaned and prepared the articles for analysis.
