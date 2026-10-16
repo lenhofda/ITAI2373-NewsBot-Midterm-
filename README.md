@@ -5,11 +5,11 @@ Midterm ITAI2373
 
 ## Project Overview
 
-For this project, we worked with a BBC News dataset containing 1,490 articles in five categories: Business, Entertainment, Politics, Sport, and Technology.
+For this project, I worked with a BBC News dataset containing 1,490 articles in five categories: Business, Entertainment, Politics, Sport, and Technology.
 
 The goal was to learn how Natural Language Processing (NLP) can be used to analyze news articles, identify important information, and predict which category an article belongs to.
 
-We used Python and Google Colab to explore the data, clean up the text, build classification models, and experiment with different NLP techniques.
+Python and Google Colab were used to explore the data, clean up the text, build classification models, and experiment with different NLP techniques.
 
 ## What I Worked On
 
